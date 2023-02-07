@@ -1,0 +1,11 @@
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\bin\Debug\ConsultorioMedico.exe.config
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\bin\Debug\ConsultorioMedico.exe
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\bin\Debug\ConsultorioMedico.pdb
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.csproj.AssemblyReference.cache
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.Properties.Resources.resources
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.csproj.GenerateResource.cache
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.csproj.CoreCompileInputs.cache
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.exe
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.pdb
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.frmSplash.resources
+C:\Users\joao.vldutra\Documents\Visual Studio 2019\ProjetoSistemaTI106\EmpresaABC\EmpresaABC\ConsultorioMedico\obj\Debug\ConsultorioMedico.FrmLogin.resources
