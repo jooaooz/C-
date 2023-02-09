@@ -1,7 +1,7 @@
 ﻿
 namespace ConsultorioMedico
 {
-    partial class FrmConsulta
+    partial class FrmConvenio
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace ConsultorioMedico
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConsulta));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmConvenio));
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnAlterar = new System.Windows.Forms.Button();
             this.btnExcluir = new System.Windows.Forms.Button();
@@ -46,10 +46,10 @@ namespace ConsultorioMedico
             this.panel1.Controls.Add(this.btnVoltar);
             this.panel1.Controls.Add(this.btnPesquisar);
             this.panel1.Controls.Add(this.btnCadastrar);
-            this.panel1.Location = new System.Drawing.Point(3, 450);
+            this.panel1.Location = new System.Drawing.Point(10, 366);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(778, 72);
-            this.panel1.TabIndex = 0;
+            this.panel1.TabIndex = 1;
             // 
             // btnAlterar
             // 
@@ -83,7 +83,6 @@ namespace ConsultorioMedico
             this.btnVoltar.TabIndex = 2;
             this.btnVoltar.Text = "&Voltar";
             this.btnVoltar.UseVisualStyleBackColor = true;
-            this.btnVoltar.Click += new System.EventHandler(this.btnVoltar_Click);
             // 
             // btnPesquisar
             // 
@@ -107,18 +106,19 @@ namespace ConsultorioMedico
             this.btnCadastrar.Text = "&Cadastrar";
             this.btnCadastrar.UseVisualStyleBackColor = true;
             // 
-            // FrmConsulta
+            // FrmConvenio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(780, 557);
+            this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
-            this.Name = "FrmConsulta";
+            this.MinimizeBox = false;
+            this.Name = "FrmConvenio";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "FrmConsulta";
-            this.Load += new System.EventHandler(this.FrmConsulta_Load);
+            this.Text = "FrmConvenio";
+            this.Load += new System.EventHandler(this.FrmConvenio_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 

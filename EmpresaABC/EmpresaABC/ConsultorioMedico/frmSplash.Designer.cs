@@ -79,7 +79,7 @@ namespace ConsultorioMedico
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(780, 557);
             this.Controls.Add(this.pctLogo);
             this.Controls.Add(this.lblPorcentagem);
             this.Controls.Add(this.pgbCarregando);
@@ -90,6 +90,7 @@ namespace ConsultorioMedico
             this.Name = "frmSplash";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Consultorio Médico";
+            this.Load += new System.EventHandler(this.frmSplash_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pctLogo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
